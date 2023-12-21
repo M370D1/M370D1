@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Metodi Ivanov
 =====================================================================================================================================
 
-Quality Assurance Engeneer | Python Web Developer
+Quality Assurance Engineer | Python Web Developer
 ---------------------------------------------------
 
 * ✉️  You can contact me at [imetodi90@gmail.com](mailto:imetodi90@gmail.com)
